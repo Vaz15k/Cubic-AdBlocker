@@ -1,7 +1,7 @@
-id=systemless-adblock
-name=Systemless-AdBlock
-version=v2.08
-versionCode=2008
-author=Vaz15k
-description=A simple AdBlocker based on the hosts file.
-updateJson=https://raw.githubusercontent.com/Vaz15k/Systemless-AdBlocker/master/module/update.json
+id=cubic-adblock
+name=Cubic AdBlock
+version=v2.17
+versionCode=2017
+author=Vaz15K
+description=A simple AdBlocker based on hosts file.
+updateJson=https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlocker/master/module/update.json
